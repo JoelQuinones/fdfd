@@ -1,0 +1,19 @@
+.titulos{
+	background-color: blue;
+
+}
+h1, h2, h3{
+	font-family: fantasy;	
+	text-align: center;
+	font-style: italic;
+	letter-spacing: 3px;
+}
+.enlaces{
+	background-color: lightblue;
+}
+.enlaces li{
+	font-family: 'Farro', sans-serif;
+	text-align: center;
+	letter-spacing: 10px;
+	list-style-position: inside;
+}

@@ -1,0 +1,49 @@
+.titulos{
+	background-color: blue;
+
+}
+h1, h2, h3{
+	font-family: fantasy;	
+	text-align: center;
+	font-style: italic;
+	letter-spacing: 3px;
+}
+.enlaces{
+	background-color: lightblue;
+}
+.enlaces li{
+	font-family: 'Farro', sans-serif;
+	text-align: center;
+	letter-spacing: 10px;
+	list-style-position: inside;
+}
+.precios{
+	background-image: 
+	url("https://empresas.blogthinkbig.com/wp-content/uploads/2019/11/Imagen3-245003649.jpg?w=800");
+	background-position: center;
+}
+
+td{
+	font-family: 'Pattaya', sans-serif;
+	color: white;
+	font-style: italic;
+	font-size: 1.2rem;
+}
+.precios li{
+	list-style-position: outside;
+	list-style-type: square;
+	color: blue;
+}
+.tabla-3 td{
+	color: darkgreen;
+}
+.lista{
+	background-color: yellow;
+}
+.lista li{
+	list-style-type: telugu;
+	list-style-position: inside;
+	letter-spacing: 2px;
+	font-style: italic;
+	font-family: 'Goblin One', cursive; 
+}
